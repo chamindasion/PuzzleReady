@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{6DF6C08D-2C24-4D44-8107-9F75B4EFB0DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{494AAD73-415D-4C67-8B85-30FF3D396556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readify.Puzzle.Web.Resource.Api", "Server\API\Readify.Puzzle.Web.Resource.Api.csproj", "{1E396D5A-D97E-44BF-BAAB-2A4DB1BC8921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readify.Puzzle.Web.Resource.ApiTests", "Server\APITest\Readify.Puzzle.Web.Resource.ApiTests\Readify.Puzzle.Web.Resource.ApiTests.csproj", "{F5888C80-DF31-4769-91A2-BA0B1FA005C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E396D5A-D97E-44BF-BAAB-2A4DB1BC8921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E396D5A-D97E-44BF-BAAB-2A4DB1BC8921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E396D5A-D97E-44BF-BAAB-2A4DB1BC8921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E396D5A-D97E-44BF-BAAB-2A4DB1BC8921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5888C80-DF31-4769-91A2-BA0B1FA005C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5888C80-DF31-4769-91A2-BA0B1FA005C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5888C80-DF31-4769-91A2-BA0B1FA005C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5888C80-DF31-4769-91A2-BA0B1FA005C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{494AAD73-415D-4C67-8B85-30FF3D396556} = {6DF6C08D-2C24-4D44-8107-9F75B4EFB0DE}
+		{1E396D5A-D97E-44BF-BAAB-2A4DB1BC8921} = {494AAD73-415D-4C67-8B85-30FF3D396556}
+		{F5888C80-DF31-4769-91A2-BA0B1FA005C3} = {494AAD73-415D-4C67-8B85-30FF3D396556}
+	EndGlobalSection
+EndGlobal

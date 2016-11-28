@@ -1,0 +1,28 @@
+# --------------------
+
+# Ignore Visual Studio  Project 
+#
+# --------------------
+
+*.user
+
+*.suo
+
+/packages
+
+# --------------------
+
+# bin 
+#
+# --------------------
+
+Readify.Puzzle.Web.Resource.Api/bin
+
+Readify.Puzzle.Web.Resource.Api/obj
+
+Readify.Puzzle.Web.Resource.ApiTests/bin
+
+Readify.Puzzle.Web.Resource.ApiTests/bin
+
+
+
