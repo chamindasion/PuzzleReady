@@ -22,3 +22,4 @@ C:\Chamindah\InterviewExams\Readify\ReadifySolution\Server\API\bin\System.Web.Ht
 C:\Chamindah\InterviewExams\Readify\ReadifySolution\Server\API\bin\System.Web.Http.WebHost.xml
 C:\Chamindah\InterviewExams\Readify\ReadifySolution\Server\API\obj\Debug\Readify.Puzzle.Web.Resource.Api.dll
 C:\Chamindah\InterviewExams\Readify\ReadifySolution\Server\API\obj\Debug\Readify.Puzzle.Web.Resource.Api.pdb
+C:\Chamindah\InterviewExams\Readify\ReadifySolution\Server\API\obj\Debug\Readify.Puzzle.Web.Resource.Api.csprojResolveAssemblyReference.cache

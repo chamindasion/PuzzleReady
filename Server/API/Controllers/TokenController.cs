@@ -16,9 +16,9 @@ namespace Readify.Puzzle.Web.Resource.Api.Controllers
         {
             if (!_disposed)
             {
-                if (disposing)
-                {
-                }
+                //if (disposing)
+                //{
+                //}
                 _disposed = true;
             }
             base.Dispose(disposing);
